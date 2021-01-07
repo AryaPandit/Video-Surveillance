@@ -28,4 +28,5 @@ body
 canvas
 {
     border: 2px solid white;
+    margin-top: 10px;
 }
